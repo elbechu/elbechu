@@ -1,6 +1,6 @@
-- 👋 Hi, I’m David Bechara Senior. I last year Math PhD Student.
+- 👋 Hi, I’m David Bechara Senior. A last year Math PhD Student.
 - 👀 I’m interested in ... many things
-- 🌱 I’m currently learning how to program and how to built a proper portfolio in order to widen my oportunities as a profesional.
+- 🌱 I’m currently learning programming in order to built a proper portfolio and to widen my oportunities as a profesional.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
